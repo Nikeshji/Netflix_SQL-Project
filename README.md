@@ -1,3 +1,3 @@
 # Netflix_SQL-Project
-[Netflix logo](https://raw.githubusercontent.com/Nikeshji/Netflix_SQL-Project/refs/heads/main/image.webp)
+[Netflix logo](https://github.com/Nikeshji/Netflix_SQL-Project/blob/main/netflix.jpg)
 [Netflix logo]()
