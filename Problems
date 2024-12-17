@@ -1,3 +1,5 @@
+
+
 -- 15 Business Problems & Solutions
 
 1. Count the number of Movies vs TV Shows
@@ -12,3 +14,6 @@
 10.Find each year and the average numbers of content release in India on netflix. 
 return top 5 year with highest avg content release!
 11. List all movies that are documentaries
+12. Find all content without a director
+13. Find how many movies actor 'Salman Khan' appeared in last 10 years!
+14. Find the top 10 actors who have appeared in the highest number of movies produced in India
