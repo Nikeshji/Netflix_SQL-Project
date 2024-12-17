@@ -5,4 +5,4 @@ Schema
 
 
 DROP TABLE IF EXISTS netflix;
-
+CREATE TABLE netflix
