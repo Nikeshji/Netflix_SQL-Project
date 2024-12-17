@@ -1,8 +1,3 @@
 # Netflix_SQL-Project
 ![Netflix Logo](https://github.com/Nikeshji/Netflix_SQL-Project/blob/main/netflix.jpg)
 
-Schema
-
-
-DROP TABLE IF EXISTS netflix;
-CREATE TABLE netflix
